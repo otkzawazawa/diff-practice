@@ -1,3 +1,3 @@
-# diff-practice
+﻿# diff-practice
 git動画講座diff練習用
-mainBranch変更
+mergetoolコンフリクト用(feature)
