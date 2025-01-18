@@ -1,3 +1,3 @@
 ﻿# diff-practice
 git動画講座diff練習用
-mainブランチで変更(rebase用)
+rebse-practiceブランチで変更(rebaseコンフリクト用)
